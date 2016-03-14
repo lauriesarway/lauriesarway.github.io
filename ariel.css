@@ -1,0 +1,292 @@
+/*CSS Doctument */
+
+body{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+	
+.bgred {
+	background-color:red;
+	}
+		
+.TLM-title{
+	margin: -100px auto 0 ;
+}
+
+h1{
+	font-size:200px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align:center;
+	color:white;
+}
+	
+.auther{
+	margin-top: -130px;
+}
+
+.link1{
+	margin-top: -100px;
+}
+
+h3{
+	font-size:75px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight:400;
+	text-align:center;
+	color:white;
+	background-color:red;
+	}
+
+p{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+#master{
+	font-size:30px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-align:center;
+	color:white;
+	background-color:red;}
+	
+#one{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:red;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+.page1{color: red;}
+
+
+
+#two{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#AC72ED;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;}
+#page2{color:#AC72ED;}
+.page2{color:#AC72ED;}
+
+
+
+#three{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#ECB01D;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+.page3{color:#ECB01D;}
+
+
+
+#four{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#13C833;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;}
+#page4{color:#13C883;}
+
+
+
+#five{
+    font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#1A96E5;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+#page5{color:#1A96E5;}
+	
+	
+	
+#six{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:red;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+#page6{color:red;}
+
+
+
+#seven{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#AC72ED;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+#page7{color:#AC72ED;}
+
+
+#eight{font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#ECB01D;;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+#page8{color:#ECB01D;}
+
+	
+#nine{font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#13C833;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+#page9{color:#13C833;}
+
+
+
+#ten{
+    font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#1A96E5;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+#page10{color:#1A96E5;}	
+
+
+
+#eleven{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:red;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+#page11{color:red;}
+
+
+
+#twelve{
+	font-size:76px;
+	text-align: center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#AC72ED;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}	
+#page12{color:#AC72ED;}
+
+
+
+#thirteen{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#ECB01D;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+#page13{color:#ECB01D;}
+
+
+	
+#fourteen{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#13C833;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+#page14{color:#13C833;}
+
+
+
+#fivteen{
+	font-size:76px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:#1A96E5;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;}
+#page15{color:#1A96E5;}
+.page15{color:#1A96E5;}
+
+
+
+#Ariel{
+	font-size:50px;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:white;
+	font-family:helvetica, ariel black,;
+	font-weight:300;}
+.ariel{color:white;}
+
+
+
+#Flounder{
+	font-size:50px;
+	font-weight:300;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:white;
+	font-family:helvetica, ariel black,;}
+.Flounder{color:white;}
+
+
+
+#kingtriton{
+	font-size:50px;
+	font-weight:300;
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	color:white;
+	font-family:helvetica, ariel black,;}
+ .King-Triton{color:white;}
+ .yellow-background{background-color:#ECD01D;}
+
+
+
+#sebastian{
+	font-size:50px;
+	font-weight:300;
+	text-align:center;
+	color:white;
+	font-family:helvetica, ariel black,;}
+.Sebastian{color:white;}
+.yellow-background
+{background-color: #ECB01D;}
+	
+	
+	
+#princeeric{
+	font-size:50px;
+	font-weight:300;
+	text-align:center;
+	color:white;
+	font-family:helvetica, ariel black,;}
+.princeeric{color:white;}
+.blue-background{Background-color:#1A96E5;}
+	
+	
+	
+#ursula{
+	font-size:50px;
+	font-weight:300;
+	text-align:center;
+	color:white;
+	font-family:helvetica, ariel black,;}
+.ursula{color:white;}
+.bgred{background-color:red;}
+
+
+
+#Scuttle{
+	font-size:50px;
+	font-weight:300;
+	text-align:center;
+	color:white;
+	font-family:helvetica, ariel black;}
+.Scuttle{color:white;}
+.purple{background-color: #AC72ED;}
+
+
+	
